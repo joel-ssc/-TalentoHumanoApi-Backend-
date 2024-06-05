@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TalentoHumano_Api.props" />
+</Project>

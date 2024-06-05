@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TalentoHumano_Api.props" />
+</Project>
